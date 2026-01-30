@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Modern Float-V framework with server-side rendering, file-based routing, and zero-config TypeScript",
   "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
   "author": "Alejandro Iglesias",
   "repository": {
     "type": "git",
